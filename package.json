@@ -1,0 +1,29 @@
+{
+  "name": "f4pdfview",
+  "version": "1.0.0",
+  "description": "View PDF documents from a 5250 Session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faq400Git/pdfView.git"
+  },
+  "keywords": [
+    "PDF",
+    "Node.js",
+    "ILE",
+    "RPG"
+  ],
+  "author": "Roberto De Pedrini Faq400.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faq400Git/pdfView/issues"
+  },
+  "homepage": "https://github.com/Faq400Git/pdfView#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "odbc": "^2.4.0"
+  }
+}
